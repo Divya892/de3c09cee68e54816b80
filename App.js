@@ -1,5 +1,5 @@
 /**
- * Restaurant Supply React Native App
+ * Test Project React Native App
  *
  * @format
  * @flow strict-local

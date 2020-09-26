@@ -1,4 +1,4 @@
-#Sat Sep 26 13:02:12 IST 2020
-base.0=/Users/apple/Documents/work/Projects/TestProject/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sat Sep 26 13:54:08 IST 2020
+base.0=/Users/mb03/Desktop/clonedProject/TestProject/de3c09cee68e54816b80/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
