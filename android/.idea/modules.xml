@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestProject.iml" filepath="$PROJECT_DIR$/.idea/modules/TestProject.iml" group="TestProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TestProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1073755608/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1073755608/react-native-community_async-storage.iml" group="TestProject/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-49206571/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-49206571/react-native-community_masked-view.iml" group="TestProject/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-108346037/react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/-108346037/react-native-community_toolbar-android.iml" group="TestProject/react-native-community_toolbar-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-776343646/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-776343646/react-native-gesture-handler.iml" group="TestProject/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1121509419/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1121509419/react-native-image-crop-picker.iml" group="TestProject/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-156392524/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-156392524/react-native-linear-gradient.iml" group="TestProject/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2045597587/react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-2045597587/react-native-localize.iml" group="TestProject/react-native-localize" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1458048710/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1458048710/react-native-reanimated.iml" group="TestProject/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1909434251/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1909434251/react-native-safe-area-context.iml" group="TestProject/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1675749731/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1675749731/react-native-screens.iml" group="TestProject/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879591744/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1879591744/react-native-svg.iml" group="TestProject/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1666784116/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1666784116/react-native-vector-icons.iml" group="TestProject/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
